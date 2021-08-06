@@ -18,3 +18,5 @@
 
 4. `npm start`
 
+# Play the game
+https://my-fungame-sam.netlify.app/
