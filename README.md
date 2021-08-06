@@ -1,8 +1,4 @@
-# Rock Paper Scissors
 
-Classic Ŗock, Paper, Scissors game with nice UI.
-
-![Alt img](https://i.imgur.com/vhtRGoQ.png)
 
 ## Features
 
@@ -14,18 +10,11 @@ Classic Ŗock, Paper, Scissors game with nice UI.
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/rock-paper-scissors.git`
+1. `git clone https://github.com/AltafMShaikh/FUNGAME.git`
 
-2. `cd rock-paper-scissors`
+2. `cd FUNGAME`
 
 3. `npm install`
 
 4. `npm start`
 
-## Contributions
-
-Any feature requests and pull requests are welcome!
-
-## License
-
-The project is under [MIT license](https://choosealicense.com/licenses/mit/).
